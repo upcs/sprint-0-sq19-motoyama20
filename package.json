@@ -1,0 +1,20 @@
+{
+  "name": "sprint-0-sq19-motoyama20",
+  "version": "1.0.0",
+  "description": "sprint-0-sq19-motoyama20 created by GitHub Classroom Test README file",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upcs/sprint-0-sq19-motoyama20.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upcs/sprint-0-sq19-motoyama20/issues"
+  },
+  "homepage": "https://github.com/upcs/sprint-0-sq19-motoyama20#readme"
+}

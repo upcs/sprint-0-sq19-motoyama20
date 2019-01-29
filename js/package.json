@@ -1,0 +1,24 @@
+{
+  "name": "sprint0",
+  "version": "1.0.0",
+  "description": "Initialize package.json file Sprint0",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sprint-0-sq19-motoyama20"
+  },
+  "keywords": [
+    "sprint0",
+    "json"
+  ],
+  "author": "Tawny Motoyama",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.0.0"
+  },
+  "dependencies": {}
+}
