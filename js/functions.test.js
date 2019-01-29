@@ -1,9 +1,9 @@
 const sum = require('./functions');
 
-test('adds 2 + 5 to equal 7', () => {
+testOne('adds 2 + 5 to equal 7', () => {
   expect(sum(2, 5)).toBe(7);
 });
 
-test('subtracts 2 - 5 to equal -3', () => {
+testTwo('subtracts 2 - 5 to equal -3', () => {
   expect(difference(2, 5)).toBe(-3);
 });
