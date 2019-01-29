@@ -1,4 +1,4 @@
-function sum(a, b) {
-  return a + b;
-}
-module.exports = sum;
+var x = 2;
+var y = 5;
+
+document.write(x + y);
